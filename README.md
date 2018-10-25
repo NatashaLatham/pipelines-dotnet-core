@@ -2,6 +2,9 @@
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
+This is the build status : [![Build Status](https://dev.azure.com/NatashasLearningProjects/Pipelines%20.NET%20Core/_apis/build/status/NatashaLatham.pipelines-dotnet-core)](https://dev.azure.com/NatashasLearningProjects/Pipelines%20.NET%20Core/_build/latest?definitionId=1)
+
+
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
